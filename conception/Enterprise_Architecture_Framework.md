@@ -1,3 +1,14 @@
 # Enterprise Architecture Framework
 
 Enterprise architecture may seem abstract as a framework because its scope encompasses the entire organization rather than addressing individual needs, issues, or business units. Consequently, several more specialized frameworks have emerged to assist companies in efficiently implementing and monitoring Enterprise Architecture Practice (EAP). Among these, four prominent EA methodologies stand out:
+
+**The Open Group Architectural Framework (TOGAF)** offers principles for designing, planning, implementing, and governing enterprise IT architecture. It aids businesses in establishing a standardized approach to Enterprise Architecture (EA), providing a common vocabulary, recommended standards, compliance methods, suggested tools and software, and a framework for defining best practices. Widely recognized as an enterprise architect framework, TOGAF has been adopted by over 80% of the world's leading enterprises, according to The Open Group.
+
+**The Zachman Framework for Enterprise Architecture**, named after one of the original founders of enterprise architecture, is another prominent EA methodology. Described as a "taxonomy" by CompTIA, it encompasses six architectural focal points and six primary stakeholders. This framework aims to standardize and define the components and outputs of IT architecture.
+
+**The Federal Enterprise Architecture Framework (FEAF)** was introduced in 1996 as a response to the Clinger-Cohen Act, which mandated IT effectiveness in federal agencies. While originally designed for the U.S. government, FEAF can also be applied by private companies seeking to utilize the framework.
+
+**Gartner:** After acquiring The Meta Group in 2005, Gartner developed best practices for Enterprise Architecture Practice (EAP) and incorporated them into its overall consulting services. Although it is not considered a standalone framework, CompTIA identifies Gartner's approach as a "practical" methodology that prioritizes business outcomes and involves "few explicit steps or components."
+
+
+Other Enterprise Architecture (EA) methodologies encompass the European Space Agency Architectural Framework (ESAAF), the Ministry of Defence Architecture Framework (MODAF), and the SAP Enterprise Architecture Framework, among various others. Unlike the broader EA methodologies mentioned earlier, these frameworks cater to specific industries or products, addressing more niche markets.
