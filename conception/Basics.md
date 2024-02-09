@@ -52,7 +52,7 @@ In the absence of enterprise architecture, a digital transformation journey may 
 
 ## Benefits of Enterprise Architecture ##
 
-**Enhanced Alignment**
+**Enhanced Alignment**:
 
 Organizations that effectively implement EA will foster greater IT transparency across their different teams. This is because all employees, spanning from the IT department to customer success managers, have access to the same plans and can visualize the future trajectory of the organization.
 
@@ -65,4 +65,4 @@ Moreover, team members from various business units can provide insights into the
 // to do
 
 **Reduced Costs**
-
+// to do
