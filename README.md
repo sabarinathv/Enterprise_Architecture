@@ -1,6 +1,6 @@
 # Enterprise_Architecture
 
-Enterprise Architecture explained here. A detailed place to where one can learn Enterprise Architecture and its concepts.
+Enterprise Architecture explained here. A detailed place where one can learn Enterprise Architecture and its concepts.
 
 The term **"enterprise"** encompasses any organization utilizing software systems, extending beyond companies to include government institutions, nonprofit organizations, non-governmental organizations, and charities.
 
