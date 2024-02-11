@@ -59,7 +59,10 @@ Organizations that effectively implement EA will foster greater IT transparency 
 Moreover, team members from various business units can provide insights into the optimal path forward. In the event that adjustments or changes are necessary, they can be swiftly implemented, ensuring that everyone remains informed and involved in the process.
 
 **Improved Collaboration**
-// to do
+
+An effective EA plan necessitates contributions from beyond the IT department.
+
+In light of this, teams across the entire organization are encouraged to participate in shaping the company's plans. The greater the involvement of front-line employees in the process, the more favorable the outcomes. Collectively, this leads to improved employee engagement and improved project results.
 
 **Rapid Software Delivery**
 // to do
