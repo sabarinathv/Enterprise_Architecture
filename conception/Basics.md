@@ -12,11 +12,11 @@ It is a combination of multiple underlying disciplines, such as:
 * Technology architecture
 * Security architecture
 
-## In simple Terms - EA: ##
+## EA - In simple Terms ##
 
 Enterprise architecture serves as the blueprint for large organizations, illustrating the cohesive integration of various components such as individuals, tasks, tools, and information. Its purpose is to facilitate the seamless operation of the organization, enabling it to effectively reach its objectives. Comparable to a guiding map, enterprise architecture directs all members within the organization, providing clarity on tasks, interconnections, and the overall path to success
 
-## Objectives of Enterprise Architecture: ##
+## Objectives of Enterprise Architecture ##
 
 The objectives or goals of enterprise architecture encompass various aspects aimed at ensuring alignment between an organization's business strategy and its IT infrastructure. These goals typically include:
 
