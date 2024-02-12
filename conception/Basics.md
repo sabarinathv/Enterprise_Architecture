@@ -73,4 +73,7 @@ For instance, by effectively integrating the advantages of real-time analytics a
 This leads to accelerated development lifecycles and decreased errors in the coding process. Furthermore, businesses can effectively determine the most efficient methods for allocating computing resources and IT investments, ensuring that their teams are equipped with the necessary tools and are positioned appropriately at optimal times.
 
 **Reduced Costs**
-// to do
+
+Enterprise architecture (EA) plays a pivotal role in facilitating organizations to expedite the introduction of their technological advancements to the market. Additionally, it serves to steer organizations away from imprudent or unproductive IT investments. As a result, organizations can realize return on investment (ROI) much more rapidly.
+
+In summary, enterprise architecture (EA) is instrumental in enabling organizations to achieve substantial savings on development costs and IT investments. Through strategic investments in new technologies, businesses can enhance their profitability. Additionally, organizations benefit from cost savings when decommissioning legacy infrastructure that entails higher maintenance expenses.
